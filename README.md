@@ -57,6 +57,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/irgo00/irgo00/output/snake.svg" alt="Snake animation" />
-
 ###
