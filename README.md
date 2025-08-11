@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Igor, 19 anos<br><br>- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas - IFPR Campus Irati (4º período)</p>
+<p align="left">Igor, 20 anos<br><br>- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas - IFPR Campus Irati (4º período)</p>
 
 ###
 
